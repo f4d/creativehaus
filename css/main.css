@@ -1,0 +1,59 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    font: 300 20px Open+Sans;
+    color: #FFF;
+    text-align: center;
+    background: url(../img/bg.jpg);
+    background-size: cover;
+}
+
+h1 span {
+    color: #F7931E;
+    font-weight: 700;
+}
+
+h1 {
+    font: 300 45px Oswald;
+}
+
+h2 {
+    font: 700 32px Oswald;
+}
+
+p { margin: 1em 0; }
+
+a {
+    color: #FFF;
+}
+
+form { text-align: left; }
+
+.fa {
+    font-size: 42.74px;
+    margin: 0 .25em
+}
+
+.btn-primary {
+	background-image: none;
+	background-color: #f7931e;
+	border: 1px solid #f9ad3a;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+img[alt="Soundhouse Promotions Logo"] {
+    width: 326.20px;
+    margin-bottom: 30px;
+}
+
+.you-tube img {
+    width: 135.50px;
+    margin: 5px;
+}
+
+.companies img {
+    margin: 5px;
+}

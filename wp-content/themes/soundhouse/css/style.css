@@ -1,0 +1,277 @@
+.dropcontainer { position:relative; font-size: 16px; color: #555; }
+.trigger { background: url("../images/open.png") no-repeat scroll 100% center #fff; border: 1px solid #000; border-radius: 8px; box-sizing: border-box; color: #555; display: block; font-size: 14px; padding: 6px 12px; transition: all 0.5s ease 0s; width: 90%; background-size:49px 100%; }
+.trigger:hover { color: #555; background:url(../images/open.png) 100% center no-repeat #fff; background-size:49px 100%; text-decoration:none !important; }
+.trigger:focus, .trigger:active { text-decoration:none; }
+.activetrigger { background: url("../images/open.png") no-repeat scroll 100% center #fff; border: 1px solid #000; border-radius: 8px; box-sizing: border-box; color: #555; display: block; font-size: 14px; padding: 6px 12px; transition: all 0.5s ease 0s; width: 90%; background-size:49px 100%; }
+.activetrigger:hover { color: #555 !important; background: url(../images/open.png) 100% center no-repeat #fff; background-size:49px 100%; }
+.activetrigger:active, .activetrigger:focus { background:  url(../images/select-arrow-close.png) 100% center no-repeat; color: #555 !important; text-decoration:none !important; }
+.dropcontainer { position:relative; }
+.dropcontainer ul { font-size: 16px; border: 1px solid #ccc; border-top: none; background: #fff; list-style-type: none; padding: 10px; margin: 0; width: 90%; z-index: 100; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; position:absolute; }
+.dropcontainer ul li a:hover { text-decoration:none !important; }
+.dropcontainer ul li a { color:#555 !important; font-size:15px; }
+.dropdownhidden { display: none; }
+.dropdownvisible { height: auto; }
+/* Changes on 14 Oct */
+
+.postid-322 .artist-biography .col-lg-9.col-md-9.col-sm-9.col-xs-12 { padding:0; }
+.postid-322 .artist-biography .col-lg-9.col-md-9.col-sm-9.col-xs-12 .top-heading h2.col-lg-9.col-md-9.col-sm-9.col-xs-6 { padding-left:0; }
+.postid-322 .recent-show .col-lg-9.col-md-9.col-xs-12 { padding:0; padding-left:15px; }
+.postid-322 .recent-show .col-lg-9.col-md-9.col-xs-12 .show-pannel h2 { padding-left:0; }
+.postid-322 .press-release .col-lg-12.col-md-12 { padding:0; }
+.page-id-4 .legacy-tour a { text-decoration:underline; }
+/*.tp-bgimg.defaultimg{background-size:101% !important;}*/
+#s2member-pro-authnet-registration-custom-reg-field-user-biography { resize: none; }
+.mejs-time-rail { width: 322px !important; }
+.postid-322 .video-section .playlist { margin-top: 10px; }
+.postid-322 .panel.panel-default .table { border:0; }
+.postid-322 .events.panel-group { border-top: 1px solid #fff; width: 640px; }
+.page-id-9 .icons.text-right a:hover { text-decoration: none !important; }
+.page-id-9 .icons.text-right a span:hover { color: #ee9c23; }
+#menu-header-left-menu { margin-right:3px; }
+.page-id-4 .icon-facebook:hover { color: #3b579d; }
+.page-id-4 .icon-twitter:hover { color: #35b5d8; }
+.page-id-4 .icon-googleplus:hover { color: #dd4c39; }
+.page-id-4 .social li a:hover { text-decoration:none !important; }
+.current-menu-item { background-color: #f09d23; }
+.postid-322 .blog p a { color: #f09d23; text-transform: capitalize; }
+.postid-322 .blog p a:hover { color: #f09d23 !important; }
+.band h2 { background: url(../images/band.png) no-repeat; height: 44px; background-size: 100% 100%; text-indent:15px; }
+.band { background:none !important; }
+.band .brand-name { padding-left:15px; }
+#li-comment-6 .col-lg-1.col-md-1.col-sm-2.col-xs-2 { width:auto; }
+#li-comment-6 .col-lg-11.col-md-11.col-sm-10.col-xs-10 { padding-left:8px; }
+.artist-biography { padding-top:9px !important; }
+.prof-img { width:100%; height:auto; }
+.contact-brand .form-group .form-control { margin-bottom:0 !important; }
+.contact-brand .form-group .soundhouse_errors { font-size:12px; float:left; margin-bottom:10px; }
+.contact-brand .form-group { margin-bottom:15px; }
+#artist_contact_but { color:#fff !important; margin-top:10px; float:left; }
+.recent-blogs .col-lg-12.col-md-12 { margin-bottom:30px; }
+.legacy-tour .img-responsive { width: 70%; float: left;}
+.legacy-tour h4 { width: 100%; padding-left:0; padding-top:10px; }
+.blog img { margin-top: 10px; margin-right:15px; }
+#artist_contact_name, #artist_contact_email { padding-left:12px; padding-right:12px; }
+.playlist li:first-child { width:420px; }
+.view .pop { margin-bottom: 15px; float: left; position: relative; z-index: 9999; }
+.sharing-us { margin-top:0; }
+#fancybox-close { right: -43px; }
+.directory-list .table tr td:first-child { width:50px; }
+.directory-list .table tr td:last-child { width:83px; }
+.text-center.view a:hover { text-decoration:none !important; }
+.text-center.view:hover a { text-decoration:none !important; }
+.nav>li>a:hover, .nav>li>a:focus { text-decoration:none !important; }
+.topbar .nav.navbar-nav.navbar-right li a:hover { text-decoration:underline !important; }
+.comment a.pull-right:hover { text-decoration:none !important; background: #f09d23; }
+.comment a.pull-right { font-weight:bold; }
+.headings-price .text-center a:hover { color: #f09d23 !important; text-decoration: none !important; }
+.comment a:hover { text-decoration:none !important; }
+.comment a:hover h2 { background:#90979f; }
+.legacy-videos .video-title { font-size:22px; font-weight:bold; }
+.button-save.btn.btn-primary { color:#fff !important; }
+#carousel-example-generic-alternative { height:200px; }
+.carousel-inner { height:200px !important; }
+.feat-block-misc img { width:100%; height:auto !important; }
+.row.music-info-alternative.music-info, .row.music-info-alternative.music-info .col-lg-3.col-md-3.col-sm-12 { height:200px !important; }
+.attachment-featured-artist-thum.wp-post-image { height:auto !important; }
+.progress { background-color: #D8621B; }
+.gform_wrapper .gform_footer { padding: 16px 4px 6px 0; }
+.ginput_container { margin-top: 10px; }
+.ginput_container #input_2_4 { margin-top:3px; margin-bottom:3px; }
+.gform_wrapper .gform_footer { margin-right:5px !important; margin-top:5px !important; }
+p#admin_user_bio textarea#admin_user_bio_textarea { outline:none; border:0; resize:none; }
+.gform_wrapper form { margin-left: 10px; }
+.page-id-102 .ginput_container .large { padding-left:15px !important; padding-right:15px !important; font-size:13px !important; }
+.page-id-232 .share ul li a { width:28px; height:28px; float:left; }
+.page-id-232 .share ul li a img { width:100%; height:auto; float:left; }
+.button-save.btn.btn-primary.btn-lg:hover { text-decoration:none !important; }
+.postid-322 .events.panel-group { width : 508px; }
+.page-id-213 .btn.dropdown-toggle.selectpicker.btn-default { border:0; }
+.post-content .post-date { line-height:28px; }
+.recent-show .col-lg-9 h2 { font-size: 20px !important; }
+.top-heading h2 { font-size: 20px !important; }
+.btn.dropdown-toggle.selectpicker.btn-default { background: url("http://csdevhub.com/dev002/Soundhouse/wp-content/themes/soundhouse/images/open.png") no-repeat scroll 100% center #fff; background-size:45px 100%; }
+.attachment-blog-thum.wp-post-image { margin-top:5px; }
+.row.post-content .col-lg-7.col-md-7.col-sm-7 { padding-left:0; }
+#user_profile_image_trig { margin-top: 20px; font-size: 14px; line-height: 20px; }
+.btn-lg, .btn-group-lg > .btn { font-size: 14px !important; line-height: 20px !important; }
+#artist_profile_submit { color:#fff; }
+.signup-buttom .btn-group{border-bottom: 4px solid #20640d;height: 45px;border-radius: 8px; } 
+.btn-group:hover #artist_profile_submit, .btn-group:hover .btn.btn-danger.btn-lg { background:#20640d;}
+.btn-group:hover{ border-bottom: 4px solid #7ccf71 !important;}
+.ui-datepicker.ui-widget.ui-widget-content.ui-helper-clearfix.ui-corner-all { display: none; }
+.your-profile label { float:left; width:100%; }
+.your-profile.col-lg-12.col-md-12 { padding:0; }
+.page-id-213 .artist-regestration .col-lg-12.col-md-12 { padding:0; }
+.page-id-213 .artist-regestration .form-group.col-lg-6.col-md-6 + .col-lg-12.col-md-12 { padding-left:15px; }
+.form-group .form-control { background:#fff; }
+.save-buttons .button-save.btn.btn-primary.btn-lg { margin: 0px 25px 0 0; }
+.aaiu_button, .aaivu_button { background:#d8621b; border:0; color:#fff !important; }
+.aaiu_button:hover, .aaivu_button:hover { text-decoration:none !important; }
+.members div { margin-bottom: 10px !important; }
+.postid-322 .recent-show .col-lg-9.col-md-9.col-xs-12 { padding:0; }
+.postid-322 .recent-show { margin-left:0; margin-right:0; }
+#profi-im { padding:10px; }
+#show-list a { color: #f09d23; }
+#show-list a:hover { color:#f09d23 !important; }
+.fancy-header a { color: #bc500f !important; }
+#gform_submit_button_2 { border-bottom: 4px solid #be450a; border-radius:6px; }
+.col-lg-3.col-md-3.col-xs-3.user_multiple_images_add { padding:0 5px 0 5px; }
+.page-id-232 .eidtable-info .navigation { margin-left:0; margin-right:0; }
+.topbar #searchform #artistsearchname { height:32px; }
+/* Changes on 15 Oct */
+
+.tp-bullets.simplebullets.round .bullet { width:6px; height:6px; background:#cdcecf; border-radius:100%; margin-right:10px; }
+.tp-bullets.simplebullets .bullet:hover, .tp-bullets.simplebullets .bullet.selected { background:#f09d23; }
+.tp-bullets { left:auto !important; bottom:-16px !important; right:0 !important; }
+.tp-bullets.simplebullets.round .bullet.last { margin-right:0; }
+.artist .controller .next { background:url(http://csdevhub.com/dev002/Soundhouse/wp-content/plugins/revslider/rs-plugin/assets/large_right.png) no-repeat; background-position: 0px -32px !important; width: 40px; height: 40px; margin-left:10px; background-size:82%; }
+.artist .controller .prev { background:url(http://csdevhub.com/dev002/Soundhouse/wp-content/plugins/revslider/rs-plugin/assets/large_left.png) no-repeat; background-position: 0px -32px !important; width: 40px; height: 40px; margin-left:10px; background-size:82%; }
+.carousel-inner > .item { height:200px !important; }
+.carousel-inner> .item .col-lg-3.col-md-3.col-sm-3.col-xs-6 { height:200px !important }
+.page-id-4 .tab-pane.fade.active.in .mejs-time-rail { width: 215px !important; }
+.page-id-4 .tab-pane.fade.active.in .mejs-time-rail .mejs-time-total { width:205px !important; }
+#myModal2 .modal-header { padding: 15px 15px; }
+.close { position: absolute; right: 10px; top: 10px; }
+#myModal2 .modal-title { line-height: 17px; padding: 0; margin: 0; }
+.button-info:focus { background: #d8621b !important; }
+.legacy-videos .mejs-container.svg.mejs-video { width:100% !important; }
+.legacy-videos .mejs-container.svg.mejs-video .mejs-poster.mejs-layer { width:100% !important; float:left; }
+.page-id-631 .legacy-videos .mejs-time-rail { width:260px !important; }
+.page-id-631 .legacy-videos .mejs-time-rail .mejs-time-total { width:240px !important; }
+.page-id-631 .legacy-videos .col-lg-6 { margin-bottom:0; }
+.page-id-631 .legacy-videos .video-title { font-size:18px !important; }
+
+
+
+
+/*============================ Changes on 16 Oct =============================*/
+
+.page-id-22 .post p.email-link{color:#f09d23;}
+.driecimg {margin-left: 48px !important;}
+.contact-information .top-image{text-align:left !important;}
+.contact-information .description{width:95%; float:left;}
+.entry-content .post {margin-bottom: 10px !important;}
+.contact-info .media{width:50%; float:right;}
+.contact-info .media .social li a:hover{text-decoration:none !important;}
+.address-info h1{font-size:25px;}
+.address-info h2{font-size:15px;}
+.fancy-header span.hyphen{font-size:18px; color:#fff; position:absolute; top:50%; margin-top:-10px; margin-left:-14px;}
+.fancy-header h1.text-center{position:relative;}
+.fancy-header span{padding-left:12px;}
+.media .social a{font-size:26px;}
+.media .social{padding-top:18px;}
+.page-id-22 .post .col-lg-3.col-md-4.col-sm-4.col-xs-12{padding-right:0;}
+#eventmodel .gigeventinfo h3{margin:0; padding:0; font-weight:800;}
+#eventmodel .bottom-event-list{padding-bottom: 9px;}
+.row.bottom-event-list .col-lg-3.col-md-3.col-sm-3{height:130px; float:left;}
+#eventmodel .bottom-event-list img{height:100%;}
+#eventmodel .gigeventinfo strong, #eventmodel .bottom-event-list h2{ font-weight:800;}
+.form-group .glyphicon-search:before {top: -2px;position: absolute;left: 50%;margin-left: -7px;}
+.page-id-18 .btn.dropdown-toggle.selectpicker.btn-default{border:0;}
+.panel.panel-default .table img{width:27px; height:27px; float:left; margin-right:22px;}
+.events.panel-group .table{line-height:27px;}
+.view .pop:hover{text-decoration:none !important;}
+.panel .table .view{margin-top:0;}
+#s2member-pro-authnet-checkout-submit {border-bottom: 4px solid #be450a; margin-bottom:30px;}
+div.s2member-pro-authnet-form-section-title{margin-bottom: 0 !important;}
+label.s2member-pro-authnet-form-card-type-visa-label, div.s2member-pro-authnet-form-section>div.s2member-pro-authnet-form-div label
+, div.s2member-pro-authnet-form-section > div.s2member-pro-authnet-form-div label, div.s2member-pro-authnet-form-section > 
+div.s2member-pro-authnet-form-div label{width:50px !important; background-size:100% !important; margin-right:10px;}
+#s2member-pro-authnet-checkout-form-options-section-title label, div.s2member-pro-authnet-form-registration-section-title
+, div.s2member-pro-authnet-form-billing-address-section-title, div.s2member-pro-authnet-form-billing-method-section-title{font-size:13px !important;letter-spacing: 1px; font-weight:800; font-family: 'Open Sans', sans-serif !important;}
+#s2member-pro-authnet-checkout-form-card-number-label span, #s2member-pro-authnet-checkout-form-card-verification-label span
+, div.s2member-pro-authnet-form-section>div.s2member-pro-authnet-form-div label span, div.s2member-pro-authnet-form-section>div.s2member-pro-authnet-form-div label span{font-size:12px;}
+.page-id-190 .plan .col-lg-7.col-md-7.row{width:70%; padding:0;}
+.page-id-190 .plan .col-lg-5.col-md-5 {width:30%; padding-right:0;}
+.page-id-190 .form-group.col-lg-12.col-md-12.payment-info-divs.row{margin:0; padding:0;}
+#s2member-pro-authnet-checkout-options{
+-webkit-appearance: none;
+-moz-appearance: none;
+text-indent: 1px;
+text-overflow: ''; cursor: pointer; border:0;
+background: url("http://csdevhub.com/dev002/Soundhouse/wp-content/themes/soundhouse/images/open.png") no-repeat scroll 100% center #fff;
+background-size: 45px 100%;
+}
+.package-details ul li {font-size: 12px;font-family: 'Open Sans', sans-serif;}
+.page-id-17 .inner-table .table tbody tr td{width:26%;}
+.inner-table .table h2.platinum{color:#f09d23;}
+.text-center .wantthis, .text-center .go-btn{height:32px; line-height:32px; padding:3px 50px; background:#bdbdbd; font-size:20px; font-weight: 800;}
+.text-center a.wantthis:hover{color:#fff !important; background:#f09d23;}
+.text-center .go-btn{background:#f09d23;}
+.text-center a.go-btn:hover{color:#fff !important; background:#bdbdbd;}
+.inner-table .table .arrow-sign img{display:inherit !important;}
+.comments_form .coment h2 {
+font-size: 14px;
+margin-top: 0;
+font-family: 'Open Sans', sans-serif;
+font-weight: 800;
+text-transform: capitalize;
+}
+.comments_form .coment h2 span{font-weight: 400 !important; padding-left:5px;}
+.postid-98 #fancybox-overlay{width: 100%;background: rgba(0, 0, 0, .6);height: 100%;}
+.postid-98 #fancybox-close {top: -11px;right: -32px;}
+.postid-98 .image-gallery li {display: inherit;padding: 0 10px 10px 0;margin: 0;float: left;width: 45%;}
+.postid-98 .popup .icon-view{margin-top: -18px; font-size: 36px;}
+.postid-98 .coments-list .col-lg-11.col-md-11.col-sm-10.col-xs-10{padding-left:0;}
+.postid-98 .profile-comments .leave-comment{font-weight:800; margin-top:12px; font-size:13px;}
+.postid-98 .profile-comments .leave-comment:hover{text-decoration:none !important;}
+.postid-98 .profile-comments .leave-comment a{width:100% !important;}
+.postid-98 .entry-content .row{margin:0;}
+.postid-98 .profile-comments{padding:0 6px;}
+.postid-98 .row.post-content ul li{list-style-position: inside;}
+.logo img{top: -22px;}
+.postid-98 .single-content h1{margin-top:38px;}
+
+
+/*============================ Changes on 16 Oct =============================*/
+.pricing-table{border-top:0;}
+.jp-mute{margin-top:1px !important;}
+div.jp-audio div.jp-volume-bar{top:26px !important;}
+div[data-y="174"]{left: 694px !important;}
+div[data-y="221"]{left: 694px !important;}
+.profile-banner{height:300px;}
+.profile-banner img{height:100%;}
+.s2member-pro-authnet-first-name.s2member-pro-authnet-registration-first-name.form-control{margin-top:7px !important;}
+#s2member-pro-authnet-registration-form label span{font-family: 'Open Sans', sans-serif !important;
+font-weight: 600;}
+.carousel-inner .item p{font-size:12px; font-family: 'Open Sans', sans-serif !important;
+font-weight: 600; text-transform: capitalize !important;}
+.leave-comment a{padding: 3px 25px !important;}
+
+.thumnail li a img, .sharing-us li a img{width:auto; height:auto !important;}
+.inner-content-area aside{padding:0;}
+.legacy-tour h2, .sponsor h2{text-align:left;}
+.page-id-4 .legacy-tour a{float:left;}
+.sponsor{margin-bottom: 20px; margin-top:20px; float:left;}
+.logos ul li{text-align:left;}
+.inner-content-area .col-lg-9.col-md-9.col-sm-9.col-xs-12{padding:0;}
+.tp-rightarrow.tparrows.default, .tp-leftarrow.tparrows.default{top:260px !important;}
+
+.container.main-body{border-bottom:21px solid #d8621b; padding-bottom:40px;}
+.page-id-92 .sponsors-list img{margin-top:20px;}
+.sponsors-list img {float:left;}
+.fancy-header h1{text-transform: uppercase;}
+
+#gform_submit_button_1{width: 100%;text-transform: uppercase;background: #d8621b !important;font-weight: bolder;border: 0;
+border-bottom: 4px solid #be450a;border-radius: 6px;}
+
+#gform_submit_button_1:hover, #gform_submit_button_1:focus {background: #f09d23 !important;border-color: #be450a !important;}
+.contact h2{font-size:15px;}
+.gform_wrapper li.gfield.gfield_error.gfield_contains_required{background:none ; border:none; margin:0; padding:0 !important;}
+.gform_wrapper li.gfield.gfield_error.gfield_contains_required input{margin:0; border:0;}
+.gform_wrapper .ginput_container + .gfield_description.validation_message{margin:0 !important; font-size:12px; color:#ff0000; padding:0 !important;}
+.gform_wrapper .top_label .gfield_description.validation_message, .gform_wrapper .gfield_description.validation_message{padding:0 !important;}
+#input_1_3 {margin-top:5px;}
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea{font-size:14px; padding:5px 20px;}
+#aaiu-upload-imagelist div, #aaivu-upload-imagelist div{width: 100%;float: left;font-size: 12px;color: #ff0000; margin-top:-5px;}
+
+#aaivu-upload-imagelist div{margin-top:0;}
+.modal-content{margin-top:150px;}
+#artistblog .modal-content{margin-top:50px;}
+#artistshows .modal-content{margin-top:100px;}
+#videosongspop .modal-content{margin-top:220px;}
+.become-featured-artist a:hover{text-decoration: none !important;}
+.content-area nav li{margin:0 !important;}
+.directory-list .table tr:hover .view a{text-decoration: none !important;}
+.follow-us li a:hover{text-decoration:none !important;}
+

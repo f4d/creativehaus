@@ -1,0 +1,567 @@
+#eventmodel .bottom-event-list .button-info{color:#fff !important;}
+
+@media (min-width:768px) {
+.container {width:95%;}
+.content-area{padding:0;}
+.recent-blogs .col-lg-12.col-md-12{width:100%; clear:both; float:left;}
+}
+
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait){
+.limit li {
+    width: 18.3% !important;
+}
+
+/* Changes on 10 Oct */
+.page-id-631 .legacy-videos .mejs-time-rail {
+    width: 58% !important;
+}
+
+/*======================= Changes on 16 Oct ==================*/
+
+#collapse1{width:100%; clear:both; margin-top:20px;}
+.band.col-lg-3.col-md-3.col-sm-3.col-xs-12{width:100%; float:left; clear:both; padding:0;}
+.postid-322 .top-playlist .col-lg-5.col-md-5{width:100%;}
+
+
+/*======================= Changes on 17 Oct ==================*/
+
+.postid-322 .playlist li:first-child{width:100%;}
+.postid-322 div.jp-audio{width:100%;}
+.postid-322 .events.panel-group{width:100%;}
+.mejs-overlay-loading {height: 81px;left: 50% !important;margin-left:49px !important;margin-top: -54px !important;position: absolute !important;
+top: 50% !important; width: 81px;}
+.postid-322 .mejs-time-rail{width:76% !important;}
+.postid-322 .mejs-time-rail .mejs-time-total{width:71% !important;}
+.sharing-us li {display: inline-block;margin-left: 5px;}
+.page-id-9 .directory{margin-top:30px;}
+.page-id-9 .directory h1{font-size:25px;}
+.page-id-9 #myModal2 .modal-dialog{margin-top:369px;}
+.page-id-631 .legacy-videos .mejs-time-rail{width:55% !important;}
+.page-id-631 .legacy-videos .mejs-time-rail .mejs-time-total{width:51% !important;}
+.page-id-631 .mejs-button.mejs-fullscreen-button {margin-left: 0px !important;}
+.page-id-631 .mejs-overlay-loading{margin-left: -115px !important;margin-top: -37px !important;}
+.nav-tabs > li > a {padding: 5px 10px;}
+.carousel-inner .item p{font-size:12px;}
+.page-id-4 aside.col-lg-3.col-md-3.col-xs-12.col-sm-3{width:100%; height:auto; float:left;}
+.page-id-4 .col-lg-9.col-md-9.col-sm-9.col-xs-12{width:100%; height:auto; float:left; padding:0;}
+.carousel-inner {height: 180px !important;}
+.page-id-4 .inner-content-area .execphpwidget{width:50%; float:left;}
+.page-id-4 .inner-content-area .execphpwidget .logos{width:100%; float:left;}
+.page-id-4 .inner-content-area .execphpwidget .logos ul{width:100%; float:left;}
+.page-id-4 .inner-content-area .execphpwidget .logos li{width:auto; float:left; margin-right:10px;}
+.music-info .col-lg-3.col-md-3.col-sm-12{width:25% !important; float:left;}
+.music-info .col-lg-3.col-md-3.col-sm-12:last-child{width:15% !important; float: right;}
+.music-info .col-lg-6.col-md-6.col-sm-12{width:50% !important; float:left;}
+.music-info .col-lg-3.col-md-3.col-sm-12 .social{width:100%; float:left; margin-top:0;}
+.music-info .col-lg-3.col-md-3.col-sm-12 .social li{width:100%; float:right; text-align:right;}
+.music-info h3{font-size:18px; padding-left:10px; padding-top:10px;}
+.music-info p {font-size:18px; margin-bottom:20px; padding-top:10px;}
+.artist .controller .prev , .artist .controller .next{background-position: 0 -30px !important;background-size: 75% auto;}
+div[data-y="174"]{left: 543.321px !important;}
+div[data-y="221"]{left: 545.321px !important;}
+
+}
+
+@media (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+
+/*======================= Changes on 16 Oct ==================*/
+
+#collapse1{width:100%; clear:both; margin-top:20px;}
+.postid-322 .leave-comment a{padding: 3px 26px;}
+.postid-322 .mejs-time-rail{width:68% !important;}
+.postid-322 .mejs-time-rail .mejs-time-total{width:65% !important;}
+
+/*======================= Changes on 17 Oct ==================*/
+
+.page-id-9 #myModal2 .modal-dialog{margin-top:241px;}
+.page-id-631 .legacy-videos .mejs-time-rail{width:65% !important;}
+.page-id-631 .legacy-videos .mejs-time-rail .mejs-time-total{width:61% !important;}
+.page-id-631 .mejs-button.mejs-fullscreen-button {margin-left: -4px !important;}
+.carousel-inner .item p{font-size:12px;}
+.carousel-inner{height: 180px !important;}
+.music-info{height: 162px !important;}
+#carousel-example-generic-alternative{height: 180px !important;}
+div[data-y="174"]{left: 694px !important;}
+div[data-y="221"]{left: 694px !important;}
+
+}
+
+@media (min-width:1010px) and (max-width:1170px){
+
+.image-gallery.thumbnails-4.linked li, .image-gallery li{padding:0!important; float:left; width:auto;}
+
+.image-gallery.thumbnails-4.linked li a.popup{width:80%; float:left;}
+}
+
+@media (min-width:981px) and (max-width:1010px){
+
+.image-gallery.thumbnails-4.linked li, .image-gallery li{padding:0 10px 0 0; float:left; width:42%; margin-bottom:10px;}
+
+.image-gallery.thumbnails-4.linked li a.popup{width:100%; float:left; margin:0; padding:0;}
+
+.image-gallery.thumbnails-4.linked li a.popup .attachment-thumbnail{width:100%; height:auto; float:left; margin:0; padding:0;}
+
+
+}
+
+@media (max-width:1079px){
+
+.page-id-631 .mejs-button.mejs-fullscreen-button{margin-left:-10px !important;}
+
+
+}
+
+
+@media (max-width:991px){
+.sponsors ul li{width:10%; height:50px; float:left; margin-right:20px; margin-bottom:20px; margin-top:20px;}
+.sponsors ul li a{width:100%; height:50px; float:none; text-align:center; display: table-cell; vertical-align: middle;}
+.sponsors ul li a img{width:100%; height:auto; float:none; vertical-align: middle; margin:0 auto; display:inline-block;}
+
+
+}
+
+@media (min-width:768px) and (max-width:980px){
+
+.page-id-18 .directory .form-group.col-lg-6.col-md-6{width:50% !important;}
+
+.image-gallery.thumbnails-4.linked li{padding:0!important;}
+
+.image-gallery.thumbnails-4.linked li a.popup{width:90%;}
+
+/* Changes on 9 Oct */
+
+#artistsearchname{width:100% !important;}
+
+.tp-caption.large_text.sft.tp-resizeme.start span, .tp-caption.large_text.randomrotate.tp-resizeme.start
+, .tp-caption.large_text.skewfromleft.tp-resizeme.start span{font-size:25px !important;}
+
+
+
+
+}
+
+@media (max-width:783px){
+.tp-caption.large_text.sft.tp-resizeme.start span, .tp-caption.large_text.randomrotate.tp-resizeme.start
+, .tp-caption.large_text.skewfromleft.tp-resizeme.start span{font-size:20px !important;}
+}
+
+@media (max-width:640px){
+.tp-caption.large_text.sft.tp-resizeme.start span, .tp-caption.large_text.randomrotate.tp-resizeme.start
+, .tp-caption.large_text.skewfromleft.tp-resizeme.start span{font-size:16px !important;}
+}
+
+@media (max-width:505px){
+.tp-caption.large_text.sft.tp-resizeme.start span, .tp-caption.large_text.randomrotate.tp-resizeme.start
+, .tp-caption.large_text.skewfromleft.tp-resizeme.start span{font-size:14px !important;}
+}
+
+@media (max-width:430px){
+.tp-caption.large_text.sft.tp-resizeme.start span, .tp-caption.large_text.randomrotate.tp-resizeme.start
+, .tp-caption.large_text.skewfromleft.tp-resizeme.start span{font-size:12px !important;}
+}
+
+@media (max-width:360px){
+.tp-caption.large_text.sft.tp-resizeme.start span, .tp-caption.large_text.randomrotate.tp-resizeme.start
+, .tp-caption.large_text.skewfromleft.tp-resizeme.start span{display:none !important;}
+}
+
+@media (min-width:768px) and (max-width:1152px){
+
+/* Changes on 9 Oct */
+
+#artistsearchname{width:100% !important;}
+
+}
+
+@media (max-width:767px){
+.container {padding-left:0; padding-right:0; width:95%;}
+.row {margin-left:0; margin-right:0;}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, 
+.col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, 
+.col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, 
+.col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, 
+.col-lg-12{padding-left:0; padding-right:0;}
+.topbar .col-xs-12{width:50%; float: left;}
+.topbar .col-xs-12 .nav.navbar-nav.navbar-right li{width:auto; float:right;}
+.form-control-feedback{right:0;}
+.directory .col-lg-6.col-md-6.col-sm-6{width:50%; float:left;}
+.form-group.col-lg-6.col-md-6{width:100%; float:left;}
+#artistsearchname{width:80%; float:right;}
+h1{font-size:25px;}
+
+.attachment-blog-thum.wp-post-image{width:60%; margin:0 20%; height:auto; float:left; clear:both;}
+
+.comment{width:60%; height:auto; float:left; margin:0 20%;}
+
+/*.comment a{width:60%; height:auto; float:left; margin:0 20%;}*/
+
+#myModal2 .modal-dialog {
+    margin: -100px 10% 0;
+    position: absolute;
+    top: 50%;
+    width: 80%;
+}
+
+.right-info h5{text-align:left;}
+
+.right-info.pull-right{float:left !important; margin-top:0;}
+
+.profile-banner{width:88%; height:auto; float:left;}
+
+.profile-banner img{width:100%; height:auto; float:left;}
+
+.events.panel-group{width:100%; height:auto; float:left;}
+
+.profile .profile-banner{width:100%;}
+
+.right-info.pull-right{width:100%; float:left; text-align:left; margin-bottom:20px;}
+.right-info.pull-right h5{width:auto; float:left; clear:none;}
+.right-info.pull-right h4{width:auto; float:right; clear:none;}
+
+.recent-blogs .col-lg-12.col-md-12{width:100%; float:left; clear:both;}
+
+.contact-brand .form-group input[type="submit"]{color:#fff;}
+.contact-brand .form-group input[type="text"], .contact-brand .form-group input[type="password"], 
+.contact-brand .form-group input[type="email"], .contact-brand .form-group input[type="url"], 
+.contact-brand .form-group input[type="number"], .contact-brand .form-group textarea{width:100%; background:transparent; 
+border:1px solid #fff; color:#fff; padding:0 20px; border-radius:0;}
+.contact-brand .form-group textarea{padding:20px; resize: vertical; margin-bottom:20px;}
+.artist-biography h2{text-indent:15px;}
+
+.row.post-content .col-lg-7.col-md-7.col-sm-7 ul{margin-left:20px; float:left; width:100%;}
+
+
+#fancybox-wrap {width:100%; height:auto; }
+
+#fancybox-outer{width:100%; height:auto;}
+
+#fancybox-content{width:100% !important; height:auto !important;}
+
+
+.gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea{width:100%; background:transparent; 
+border:1px solid #fff; color:#fff; padding:10px 20px; border-radius:0;}
+.top_label textarea.textarea{padding:20px; resize: vertical; margin-bottom:20px;}
+
+
+/* Changes on 9 Oct */
+
+.artist-regestration .location-info .form-control , .btn.dropdown-toggle.selectpicker.btn-default, .social-links .form-control
+, #artistsearchname{height:40px; padding:0 20px;}
+.btn-group.bootstrap-select.form-control{border-radius:0; padding:0; background:transparent;}
+.btn-group.bootstrap-select.form-control .btn.dropdown-toggle.selectpicker.btn-default{border:0;}
+textarea.form-control , #admin_user_bio textarea{padding:20px; margin-bottom:30px;}
+.col-lg-4.col-md-4.social-side label{margin:0;}
+#user_profile_image_trig{margin-top:20px;}
+.form-control-feedback{height:40px; line-height:40px; }
+.btn-lg, .btn-group-lg > .btn{font-size:16px; margin-right:5px !important; margin-bottom:30px !important; float:left;}
+.share ul{text-align:left;}
+.share ul li{margin-bottom:10px;}
+.form-inline > .modal-header + .modal-body{display:none;}
+.itesms-delete a , .itesms-delete a:hover{color:#ff0000 !important;}
+.aaivu_button , .aaivu_button:hover, #aaiu-uploader, #aaiu-uploader:hover{color:#000 !important;}
+#bandmember .modal-title , .heading-label{padding-left:10px;}
+#bandmember .form-control , #bandmember .bootstrap-select:not([class*="span"]):not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){width:91%; margin-left:10px; margin-bottom:20px; height:40px;}
+#band_member_add , #artist-admin-band{margin-left:10px;}
+#admin_user_bio textarea{width:100%; margin-bottom:20px;}
+#songspopup .modal-body .form-group .form-control, #video_song_name{width:100%; height:40px; padding:0 20px;}
+#create_album_name{margin-top:10px;}
+#video_song_name{margin-bottom:10px;}
+#press_items .form-group .form-control{height:40px !important; padding:0 20px !important; margin-bottom:20px !important;}
+.itesms-delete.col-lg-1.col-md-1.col-sm-1 {
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+#items-div-delete-3{margin-bottom:0;}
+.payment-info h1{font-size:22px;}
+.page-id-667 .form-group .form-control{height:40px; padding:0 20px; margin-bottom:20px;}
+.page-id-667 .billing-form .payment-option li{margin-bottom:20px; margin-left:0; margin-right:10px;}
+.btn-group.bootstrap-select.form-control{padding:0;}
+.page-id-667 .billing-form input{height:50px; color:#fff !important;}
+#artistshows .modal-body{display:block;}
+#artistshows .form-control, #edit-show-form .form-group .form-control{height:40px; margin-bottom:20px; padding:0 20px;}
+.fancy-header h1{font-size:21px; margin-bottom:10px !important;}
+
+.page-id-213 .signup-buttom{width:100%; clear:both;}
+.page-id-213 .signup-buttom #artist_profile_submit{color:#fff !important;}
+.page-id-213 .btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group{margin-left:-5px;}
+.page-id-9 .directory .form-control, .directory .form-control-feedback {height: 40px;}
+
+
+}
+
+@media (max-width:560px){
+
+.directory .col-lg-6.col-md-6.col-sm-6{width:100%; float:left;}
+.form-group.col-lg-6.col-md-6{width:100%; float:left;}
+#artistsearchname{width:100%; float:left;}
+.form-group form {width:50%; float:left; position: relative;}
+.form-group form#searchform {width:100%; float:left;}
+#searchartist{right:0;}
+
+.page-id-23 .contact .col-lg-5.col-md-5.col-sm-5.col-xs-6{width:100%;} 
+
+.inner-table {
+    background: none repeat scroll 0 0 #373737;
+    margin-top: 20px;
+    overflow-y: scroll;
+    padding-bottom: 50px;
+}
+
+#myModal2 .modal-dialog {
+    margin: -270px 10% 0;
+    position: absolute;
+    top: 50%;
+    width: 80%;
+}
+
+
+}
+
+@media (min-width:320px) and (max-width:480px) and (orientation:portrait){
+.container {padding-left:0; padding-right:0; width:90%; }
+.topbar .col-xs-12{width:100%; float: left;}
+.topbar .col-xs-12 .nav.navbar-nav.navbar-right li{width:auto; float:left;}
+.form-group form#searchform {width:80%; float:left;}
+.form-group form {width:80%; float:left; position: relative;}
+
+.directory-list .table .icons{width:85px;}
+
+.attachment-blog-thum.wp-post-image{width:80%; margin:0 10%; height:auto; float:left; clear:both;}
+
+.comment{width:80%; height:auto; float:left; margin:0 10%;}
+
+#myModal2 .modal-dialog {
+    margin: -100px 10% 0;
+}
+
+#myModal2 .modal-title {font-size: 15px;}
+
+.modal-body .form-group .form-control{width:88%;}
+
+.modal-body {padding: 25px 15px;}
+
+#myModal2 .modal-body p {font-size:12px; width: 88%; float: left; text-align: center; margin-top:0; }
+
+#myModal2 .modal-footer .button-info{width:80%;}
+
+.right-info.pull-right h4{width:100%; float:left; clear:both;}
+
+.leave-comment a{font-size:13px;}
+
+.top-heading h2{font-size:13px; padding-left:0;}
+
+h2 {
+    font-size: 18px;
+}
+
+
+/* Changes on 9 oct */
+
+.limit li {
+    width: 16.1% !important;
+}
+
+/* Changes 10 Oct */
+
+.mejs-container.svg.mejs-video{height:200px !important;}
+.mejs-overlay.mejs-layer.mejs-overlay-play{height:200px !important;}
+.mejs-poster.mejs-layer{height:200px !important;}
+.mejs-mediaelement video{height:200px !important;}
+
+.page-id-92 .sponsors-list .col-xs-4{width:50% !important; margin-bottom:30px;}
+.page-id-92 .sponsors-list .col-xs-4 a{margin-right:20px;}
+
+.page-id-4 .execphpwidget{width:100% !important; float:left;}
+.page-id-4 .execphpwidget + .execphpwidget{width:100% !important; padding-left:50px; margin-bottom: 20px;}
+.page-id-4 .sponsor.text-center{text-align:left !important; margin-bottom:-10px; }
+.page-id-4 .logos ul.text-center li{width:auto !important; height:50px !important; float:left; margin:0 20px 20px 0 !important;}
+
+
+
+
+}
+
+@media (min-width:320px) and (max-width:480px) and (orientation:landscape){
+.limit li {
+    display: inline-block;
+    text-align: right;
+    text-transform: uppercase;
+    width: 17.3% !important;
+}
+}
+@media (min-width:320px) and (max-width:568px) and (orientation:landscape){
+.limit li {
+    display: inline-block;
+    text-align: right;
+    text-transform: uppercase;
+    width: 17.8%;
+}
+}
+@media (min-width:360px) and (max-width:640px) and (orientation:landscape){
+.limit li {
+    display: inline-block;
+    text-align: right;
+    text-transform: uppercase;
+    width: 18%;
+}
+}
+
+
+@media (min-width:400px) and (max-width:450px) and (orientation:portrait){
+.limit li {
+    width: 16.8% !important;
+}
+}
+
+@media (min-width:320px) and (max-width:377px){
+
+.row.phtotos ul li{width:100%; height:auto; float:left; padding:0;}
+
+.row.phtotos ul li .popup{width:60%; height:auto; float:left; margin:0 20%;}
+
+/* Changes on 9 Oct */
+
+.fancy-header h1 {
+    font-size: 18px;
+    margin-bottom: 10px !important;
+}
+
+
+
+
+
+
+}
+
+@media (max-width:548px){
+
+.billing-form .payment-option{float:left;}
+
+.page-id-92 .sponsors-list .col-xs-4{width:33.3333%; margin-bottom:30px;}
+.page-id-92 .sponsors-list .col-xs-4 a{margin-right:20px;}
+}
+
+@media (min-width:320px){
+
+#user_profile_image_trig{margin-top:20px;}
+.page-id-667 #payment_featured {
+    color: #FFFFFF !important;
+    height: 50px;
+}
+
+/*#aaiu-upload-container .aaiu_button, #aaiu-upload-container .aaiu_button:hover, .action-delete , .action-delete:hover,
+#aaivu-uploader, #aaivu-uploader:hover{color:#333 !important;}*/
+#aaivu-uploader{float:left; margin:0;}
+
+.topbar #searchform #artistsearchname{width:100%;}
+.topbar #searchform .form-control-feedback{height:32px;}
+.aaiu-uploaded-files > br{display:none;}
+
+#o_193qc6hus3691dvb1o4bvffg7rh{padding-left:10px;}
+
+#videosongspop #video_song_error{margin-top:20px; font-size:12px;}
+#videosongspop #video_song_name_error, #song_add_form #song_name_error, #song_add_form #album_select_error, 
+#song_add_form #song_song_error, #song_add_form #album_name_error{font-size:12px;}
+
+.dropdown-menu.inner.selectpicker li.selected span.text, .dropdown-menu.inner.selectpicker li:hover span.text{color:#000;}
+#song_add_form #song_song_error{margin-top:-10px; float: left;}
+
+.modal.fade.in.show_custom .error{float:left; clear:both; margin:0; font-size:12px; position:relative !important; margin-bottom:-10px; 
+clear:both; width:100%;}
+
+/* Changes on 10 Oct */
+
+#press_items .form-group .error{float:left; clear:both; margin:0; font-size:11px; position:relative !important; margin-bottom:-10px; 
+clear:both; width:100%;}
+#artistshows #show_venue_image_1, #artistshows #show_venue_image_2, #artistshows #show_venue_image_3 
+{width:100%; height:auto; float:left; margin-bottom:10px;}
+#artistshows #show_venue_image_1 img, #artistshows #show_venue_image_2 img, #artistshows #show_venue_image_3 img{width:100% !important; height:auto !important; float:left;}
+#artistshows input[type="file"], .venue_details input[type="file"]{white-space: pre-wrap !important; width:100%;}
+#press_items .itesms-delete a, #press_items .itesms-delete a:hover{color:#ff0000 !important;}
+#artistblog #artist_blog_featured_image, #artistshows-edit #edit_venue_image_1, #artistshows-edit #edit_venue_image_2, 
+#artistshows-edit #edit_venue_image_3{ height:auto; float:left;}
+#artistblog #artist_blog_featured_image img, #artistshows-edit #edit_venue_image_1 img, #artistshows-edit #edit_venue_image_2 img
+, #artistshows-edit #edit_venue_image_3 img
+{width:100% !important; height:auto !important; float:left;}
+#artistblog .form-group .error{float:left; clear:both; margin:0; font-size:11px; position:relative !important; margin-bottom:-10px; 
+clear:both; width:100%;}
+.eidtable-info #admin_user_bio_textarea{width:100%; height:100px; float:left; padding:10px 20px; margin-bottom:10px; resize: vertical;}
+#artistshows-edit .form-group .error{float:left; clear:both; margin:0; font-size:11px; position:relative !important; margin-bottom:-10px; 
+clear:both; width:100%;}
+#edit_venue_image_1, #edit_venue_image_2, #edit_venue_image_3{margin-bottom:10px;}
+.legacy-videos p{width:100%; height:auto; float:left; margin-top:10px;}
+.top-heading p{width:100%; height:auto; float:left; clear:both;}
+.band.col-lg-3.col-md-3.col-sm-3.col-xs-12 > h2 {
+    clear: both;
+    float: left;
+    line-height: 40px;
+    margin: 0 0 20px;
+    padding: 0;
+    width: 100%;
+}
+.band{height:auto; float:left;}
+.artist-biography .top-heading{border:0; width:100%; }
+.artist-biography .top-heading h2{width:100%; height:auto; float:left; clear:both;}
+.artist-biography{width:100%; height:auto; float:left; border-top: 1px solid #FFFFFF; padding-top:30px;}
+
+.page-id-631 .legacy video{width:100% !important;}
+.page-id-631 .legacy-videos > .col-lg-12.col-md-12{clear:both; float:left;}
+
+
+}
+
+@media (min-width:320px) and (max-width:767px){
+/*#videosongspop #video_song_name_error{margin-top:-10px;}
+#videosongspop #aaivu-uploader{margin-top:20px;}*/
+.topbar #searchform .form-control-feedback {
+    height: 40px;
+}
+
+.modal.fade.in.cust .error , .modal.fade.in.song_custom .error{float:left; clear:both; margin:0; font-size:12px; 
+position:relative !important;}
+.modal.fade.in.cust #video_song_name_error{margin-top:-10px;}
+.modal.fade.in.cust #video_song_error{margin-top:-1px !important;}
+#create_album{clear:both; float:left;}
+.modal.fade.in.show_custom .form-group.col-lg-4.col-md-4.col-sm-4{width:100%; float:left; clear:both;}
+.modal.fade.in.show_custom .form-group .form-control{margin-bottom:0 !important;}
+.modal.fade.in.show_custom .form-group , #press_items .form-group, #artistshows-edit .form-group
+{margin-bottom:20px !important;}
+#press_items .form-group , #artistshows-edit .form-group{width:100%; float:left; clear:both;}
+#press_items .form-group .form-control, #artistshows-edit .form-group .form-control{margin-bottom:0 !important;}
+#press_items .itesms-delete{width:100%; height:auto; float:left; margin-top:-20px;}
+#press_items .press-items-class{margin-bottom:20px;}
+#artist_blog_title_error{margin-bottom:10px !important;}
+#artist_blog_content_error{margin-top:-25px !important; }
+#inputSuccess2{height:40px;}
+.legacy-videos p{margin-bottom:20px;}
+
+.sponsors ul li{width:auto; height:50px; float:left; margin-right:20px; margin-bottom:20px; margin-top:20px;}
+.sponsors ul li a{width:100%; height:50px; float:none; text-align:center; display: table-cell; vertical-align: middle;}
+.sponsors ul li a img{width:100%; height:auto; float:none; vertical-align: middle; margin:0 auto; display:inline-block;}
+.sponsors {
+    float: left;
+    height: auto;
+    margin-bottom: 30px;
+    width: 100%;
+}
+.biography-content{width:100%; height:auto; float:left; padding:0 20px;}
+.page-id-92 .sponsors-list a{width:100%; height:50px; float:none; text-align:center; display: table-cell; vertical-align:middle; margin-bottom:20px;}
+.page-id-92 .sponsors-list a img{width:100%; height:auto; float:none; vertical-align: middle; margin:0 auto; display:inline-block; max-height:50px;}
+
+.page-id-4 .execphpwidget{width:30%; float:left;}
+.page-id-4 .execphpwidget + .execphpwidget{width:70%; padding-left:50px;}
+.page-id-4 .sponsor.text-center{text-align:left !important; margin-bottom:-10px;}
+.page-id-4 .logos ul.text-center li{width:auto !important; height:50px !important; float:left; margin:0 20px 20px 0;}
+
+}
+
+
+/* Changes on 14 Oct */
+
+@media (min-width:1024px){
+
+.container.main-body{width:960px;}
+.topbar .container{width:960px;}
+
+}
+
